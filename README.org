@@ -1252,7 +1252,7 @@ Now the chat should be able to automatically use search. Try "what's new today" 
 **** Cheaper Inference
 #+html: </summary>
 
-Cheaper Inference is a gateway that serves models from several upstream providers through one OpenAI-compatible API.  Models are addressed by their maker's own name, without a vendor prefix.
+Cheaper Inference is a gateway that serves models from several upstream providers through one OpenAI-compatible API.  Models are addressed by their maker's own name, without a vendor prefix.  Each model costs 15–60% less than the list price of its lab.
 
 Register a backend with
 
